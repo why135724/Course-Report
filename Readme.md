@@ -1,2 +1,0 @@
-先运行preprocess.py处理dataset中的数据，然后会保存到processed_data中。
-V2是前半部分训练/验证后半部分测试
